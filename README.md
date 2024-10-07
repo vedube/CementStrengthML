@@ -1,4 +1,4 @@
-# Machine Learning models
+# Concrete strength prediction
 
 Co-authors: Sebastián Cueva, Juan Diego Zapata
 
